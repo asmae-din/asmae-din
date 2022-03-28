@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asmae-din
 - 👀 I’m interested in 
-- 🌱 I’m currently learning java / javaScript / html css/php
+- 🌱 I’m currently learning  html css/php /javaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
