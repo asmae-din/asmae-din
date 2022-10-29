@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asmae-din
-- 👀 I’m interested in 
-- 🌱 I’m currently learning  html css/php /javaScript 
+- 👀 I’m frontend | Angular developer  
+- 🌱 I’m currently learning  Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
